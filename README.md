@@ -1,1 +1,0 @@
-# ShilpaGupta3DWebGL
